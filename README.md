@@ -1,4 +1,4 @@
-# Dominic Ocharo Portfolio
+# Dominic Ocharo Portfolio 2
 
 Welcome to my portfolio website! This repository contains the code for my portfolio website, where I showcase my skills, projects, and experiences in the fields of Telecommunications Engineering, Data Science, Data Analysis, Power Apps Development, and Networking.
 
